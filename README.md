@@ -1,3 +1,57 @@
+
+# Dropdown
+
+It is a dropdown functionality project.
+
+I made this project using React.js which is a popular frontend development framework.
+
+In it we have a select button named as "select" and when we click on it a dropdown appears withy all the options available.
+
+We can choose any of the option from the dropdown.
+
+The option which we selecet is Populated in the select bar field.
+## Languages Used
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+Used for the basic and good looking styling of the project so that the project looks good and appealing.
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+For the structure and for the entry point DIV with id named as "root".
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+For making different components and implementing all the functionalities of the project.
+## Deployment
+
+I had hosted the project live on -
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+[Hosted Link](https://delightful-pothos-3ab06f.netlify.app)
+
+
+## E-mail Address
+
+[![MIT gmeil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://choosealicense.com/licenses/mit/)
+
+[My Gmail ID](ramavtarnagar13@gmail.com)
+
+
+
+
+
+## 🔗 My Socials
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+
+https://www.linkedin.com/in/ramavtar-nagar-a942a4216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+
+https://x.com/Ramavta60509861?t=7nTCY6zozQfNJs5uYGFyTQ&s=09
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
