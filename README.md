@@ -22,6 +22,10 @@ For the structure and for the entry point DIV with id named as "root".
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 For making different components and implementing all the functionalities of the project.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
 ## Deployment
 
 I had hosted the project live on -
